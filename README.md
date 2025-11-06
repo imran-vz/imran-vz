@@ -13,12 +13,6 @@ I'm a Senior Developer at [Thoughtseed](https://www.thoughtseed.io/).
 - ⚡ Fun fact: I like to run and as a hobby I collect old currency also known as [Numismatics](https://www.google.com/search?q=numismatics). 
 - :heart: Travelling + food + anime.
 
-
-<p align='center'>
-  <a href="https://instagram.com/imran.vz"><img src='https://img.shields.io/badge/-Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white'/></a>
-</p>
-
-
 ### My tech stack
 ![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
